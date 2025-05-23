@@ -1,16 +1,24 @@
-## Hi there 👋
+````markdown name=README.md
+# Suyash Gulati
 
-<!--
-**suyashgulati/suyashgulati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![avatar](https://avatars.githubusercontent.com/u/3369400?v=4)
 
-Here are some ideas to get you started:
+## 🚀 Full Stack Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Arsenal
+- **Languages & Frameworks:** Node.js, Angular, React, JavaScript, TypeScript
+- **Databases:** PostgreSQL, MySQL, MongoDB
+
+---
+
+### 👾 About Me (Quirky Edition)
+
+Daytime: Slaying bugs and shipping code.<br>
+Nighttime: Leveling up as a gamer.<br>
+Currently on a side quest: Learning AI magic and automating my coffee breaks ☕
+
+---
+
+- [LinkedIn](https://www.linkedin.com/in/suyashgulati/)
+
+````
