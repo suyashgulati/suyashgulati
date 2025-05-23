@@ -1,9 +1,6 @@
-````markdown name=README.md
 # Suyash Gulati
 
-![avatar](https://avatars.githubusercontent.com/u/3369400?v=4)
-
-## 🚀 Full Stack Software Engineer
+### 🚀 Full Stack Software Engineer
 
 ### Tech Arsenal
 - **Languages & Frameworks:** Node.js, Angular, React, JavaScript, TypeScript
@@ -20,5 +17,3 @@ Currently on a side quest: Learning AI magic and automating my coffee breaks ☕
 ---
 
 - [LinkedIn](https://www.linkedin.com/in/suyashgulati/)
-
-````
